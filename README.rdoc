@@ -1,6 +1,6 @@
 == README
 
-Rails Tutorial - demo_app - Linux - Heroku thawing-brook-4987 - all Postgres
+Rails Tutorial - demo_app - Linux - Heroku thawing-brook-4987.herokuapp.com/users - all Postgres
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
